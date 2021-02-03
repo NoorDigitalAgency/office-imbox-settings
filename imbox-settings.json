@@ -1,0 +1,44 @@
+{
+  "automated": {
+    "*": {
+      "category": null,
+      "article": null,
+      "popup": false
+    },
+    "Home": {
+      "category": {
+        "name": "Inställningar",
+        "id": "4229"
+      },
+      "article": null,
+      "popup": false
+    },
+    "File System": {
+      "category": {
+        "name": "Hantera användare",
+        "id": "4230"
+      },
+      "article": null,
+      "popup": true,
+      "params": {
+        "folder": {
+          "category": {
+            "name": "4231",
+            "id": "Hantera e-postadresser"
+          },
+          "article": "26127",
+          "popup": false
+        }
+      }
+    }
+  },
+  "buttons": {
+    "email management": {
+      "category": {
+        "name": "4231",
+        "id": "Hantera e-postadresser"
+      },
+      "article": "26127"
+    }
+  }
+}
